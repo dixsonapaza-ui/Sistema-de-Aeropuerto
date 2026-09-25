@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LAB11APAZA.Api/LAB11APAZA.Api.csproj" />
+  <Project Path="LAB11APAZA.Aplicacion/LAB11APAZA.Aplicacion.csproj" />
+  <Project Path="LAB11APAZA.Dominio/LAB11APAZA.Dominio.csproj" />
+  <Project Path="LAB11APAZA.Infraestructura/LAB11APAZA.Infraestructura.csproj" />
+</Solution>
